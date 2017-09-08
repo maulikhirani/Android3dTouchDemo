@@ -4,7 +4,7 @@ android {
     compileSdkVersion 26
     buildToolsVersion "26.0.1"
     defaultConfig {
-        applicationId "maulik.hideonreleasedialogdemo"
+        applicationId "maulik.android3dtouchdemo"
         minSdkVersion 23
         targetSdkVersion 26
         versionCode 1
@@ -26,4 +26,5 @@ dependencies {
     compile 'com.squareup.picasso:picasso:2.5.2'
     compile 'com.android.support:recyclerview-v7:26.+'
     compile 'com.android.support:cardview-v7:26.+'
+
 }
